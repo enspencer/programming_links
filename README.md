@@ -24,7 +24,11 @@ https://github.com/bbatsov/ruby-style-guide
 
 ***Productivity***
 
+Cinch
 http://www.irradiatedsoftware.com/cinch/
+
+Alfred
+http://www.alfredapp.com/
 
 ***Other Non-Ruby Links***
 Some basic UNIX commands

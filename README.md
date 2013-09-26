@@ -22,6 +22,7 @@ http://unqb.tumblr.com/post/50737858406/ruby-philosophy
 Ruby Style Guide
 https://github.com/bbatsov/ruby-style-guide
 
+
 ***Productivity***
 
 Cinch
@@ -29,6 +30,7 @@ http://www.irradiatedsoftware.com/cinch/
 
 Alfred
 http://www.alfredapp.com/
+
 
 ***Other Non-Ruby Links***
 

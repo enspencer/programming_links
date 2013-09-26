@@ -34,6 +34,9 @@ http://www.alfredapp.com/
 
 ***Other Non-Ruby Links***
 
+Code Katas
+http://codekata.pragprog.com/2007/01/code_kata_backg.html#more
+
 Some basic UNIX commands
 http://www.tjhsst.edu/~dhyatt/superap/unixcmd.html
 

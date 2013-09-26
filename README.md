@@ -16,6 +16,19 @@ http://mislav.uniqpath.com/poignant-guide/
 
 http://www.zenspider.com/Languages/Ruby/QuickRef.html
 
+The Philosophy of Ruby
+http://unqb.tumblr.com/post/50737858406/ruby-philosophy
+
+Ruby Style Guide
+https://github.com/bbatsov/ruby-style-guide
+
 ***Productivity***
 
 http://www.irradiatedsoftware.com/cinch/
+
+***Other Non-Ruby Links***
+Some basic UNIX commands
+http://www.tjhsst.edu/~dhyatt/superap/unixcmd.html
+
+Markdown Syntax
+http://daringfireball.net/projects/markdown/basics

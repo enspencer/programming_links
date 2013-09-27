@@ -12,7 +12,6 @@ http://apidock.com/ruby
 
 http://rubydoc.info/stdlib/core/1.9.3/frames
 
-http://mislav.uniqpath.com/poignant-guide/
 
 http://www.zenspider.com/Languages/Ruby/QuickRef.html
 

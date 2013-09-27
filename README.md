@@ -30,7 +30,8 @@ http://c2.com/cgi/wiki?PythonVsRuby
 
 http://peepcode.com/blog/2010/what-pythonistas-think-of-ruby
 
-
+Why's Poignant Guide to Ruby 
+http://mislav.uniqpath.com/poignant-guide/
 
 
 ***Productivity***

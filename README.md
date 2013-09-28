@@ -49,3 +49,6 @@ http://www.tjhsst.edu/~dhyatt/superap/unixcmd.html
 
 Markdown Syntax
 http://daringfireball.net/projects/markdown/basics
+
+Pry
+http://pryrepl.org/screencasts.html

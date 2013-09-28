@@ -32,6 +32,9 @@ http://peepcode.com/blog/2010/what-pythonistas-think-of-ruby
 Why's Poignant Guide to Ruby 
 http://mislav.uniqpath.com/poignant-guide/
 
+Also in PDF form:
+http://www.rubyinside.com/media/poignant-guide.pdf
+
 
 ***Productivity***
 

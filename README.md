@@ -22,6 +22,8 @@ http://unqb.tumblr.com/post/50737858406/ruby-philosophy
 Ruby Style Guide
 https://github.com/bbatsov/ruby-style-guide
 
+Ruby Regex Editor
+http://rubular.com/
 
 ***Productivity***
 

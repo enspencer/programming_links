@@ -35,6 +35,14 @@ http://mislav.uniqpath.com/poignant-guide/
 Also in PDF form:
 http://www.rubyinside.com/media/poignant-guide.pdf
 
+http://apidock.com/ruby/Array/map
+
+http://apidock.com
+
+http://rubydoc.info/stdlib/core/1.9.3/frames
+
+http://www.gotapi.com/rubyrails
+
 
 ***Productivity***
 

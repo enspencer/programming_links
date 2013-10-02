@@ -21,6 +21,7 @@ http://unqb.tumblr.com/post/50737858406/ruby-philosophy
 Ruby Style Guide
 https://github.com/bbatsov/ruby-style-guide
 
+<<<<<<< HEAD
 http://www.rubyfleebie.com/understanding-fixnums/
 
 http://www.sarahmei.com/blog/2009/04/21/object-ids-and-fixnums/
@@ -43,6 +44,10 @@ http://rubydoc.info/stdlib/core/1.9.3/frames
 
 http://www.gotapi.com/rubyrails
 
+=======
+Ruby Regex Editor
+http://rubular.com/
+>>>>>>> d3d5a4a6e36dc8631f51e737ef48df4b4872069d
 
 ***Productivity***
 
@@ -54,6 +59,9 @@ http://www.alfredapp.com/
 
 
 ***Other Non-Ruby Links***
+
+Code Katas
+http://codekata.pragprog.com/2007/01/code_kata_backg.html#more
 
 Some basic UNIX commands
 http://www.tjhsst.edu/~dhyatt/superap/unixcmd.html

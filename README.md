@@ -49,6 +49,10 @@ Ruby Regex Editor
 http://rubular.com/
 >>>>>>> d3d5a4a6e36dc8631f51e737ef48df4b4872069d
 
+=======
+Big-O Algorithm Time Complexities
+http://bigocheatsheet.com/
+
 ***Productivity***
 
 Cinch

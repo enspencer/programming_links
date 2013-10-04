@@ -44,6 +44,9 @@ http://rubydoc.info/stdlib/core/1.9.3/frames
 
 http://www.gotapi.com/rubyrails
 
+r/ruby
+http://www.reddit.com/r/ruby/
+
 =======
 Ruby Regex Editor
 http://rubular.com/
@@ -75,3 +78,6 @@ http://daringfireball.net/projects/markdown/basics
 
 Pry
 http://pryrepl.org/screencasts.html
+
+r/learnprogramming
+http://www.reddit.com/r/learnprogramming

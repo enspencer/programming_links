@@ -88,3 +88,6 @@ http://www.reddit.com/r/learnprogramming
 ***Javascript and stuff***
 Backbone.js, JSON API, and Relational Data: A Primer
 http://robots.thoughtbot.com/post/62054652551/backbone-js-json-api-and-relational-data-a-primer
+
+Angular.js Tutorial
+http://learnangularjs.net/

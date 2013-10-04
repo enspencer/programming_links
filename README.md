@@ -56,6 +56,9 @@ http://rubular.com/
 Big-O Algorithm Time Complexities
 http://bigocheatsheet.com/
 
+100 Coding Projects
+https://github.com/thekarangoel/Projects
+
 ***Productivity***
 
 Cinch

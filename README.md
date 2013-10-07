@@ -82,6 +82,8 @@ http://www.alfredapp.com/
 
 
 ***Other Non-Ruby Links***
+Know more about HTTP
+https://github.com/for-GET/know-your-http-well
 
 Code Katas
 http://codekata.pragprog.com/2007/01/code_kata_backg.html#more

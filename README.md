@@ -106,3 +106,6 @@ http://robots.thoughtbot.com/post/62054652551/backbone-js-json-api-and-relationa
 
 Angular.js Tutorial
 http://learnangularjs.net/
+
+***Design***
+http://hackdesign.org/

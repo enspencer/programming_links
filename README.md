@@ -84,6 +84,15 @@ http://www.alfredapp.com/
 HTML Microdata
 http://schema.org/
 
+Adobe Color Wheel
+https://kuler.adobe.com/create/color-wheel/
+
+CSS Specificity
+http://css-tricks.com/specifics-on-css-specificity/
+
+CSS Specificity
+http://reference.sitepoint.com/css/specificity
+
 
 ***Other Non-Ruby Links***
 Know more about HTTP

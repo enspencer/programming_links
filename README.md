@@ -68,6 +68,10 @@ http://bigocheatsheet.com/
 100 Coding Projects
 https://github.com/thekarangoel/Projects
 
+***Books***
+Twitter API
+http://www.amazon.com/dp/0989875806
+
 ***Productivity***
 
 Cinch

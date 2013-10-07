@@ -80,6 +80,10 @@ http://www.irradiatedsoftware.com/cinch/
 Alfred
 http://www.alfredapp.com/
 
+***HTML & CSS***
+HTML Microdata
+http://schema.org/
+
 
 ***Other Non-Ruby Links***
 Know more about HTTP

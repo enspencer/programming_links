@@ -109,3 +109,7 @@ http://learnangularjs.net/
 
 ***Design***
 http://hackdesign.org/
+
+
+Data Visualization
+http://datavisualization.ch/tools/selected-tools/

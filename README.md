@@ -93,6 +93,19 @@ http://css-tricks.com/specifics-on-css-specificity/
 CSS Specificity
 http://reference.sitepoint.com/css/specificity
 
+Google Fonts
+http://www.google.com/fonts
+
+W3 Schools
+http://www.w3schools.com/
+
+CSS Frameworks
+http://gumbyframework.com/
+http://getbootstrap.com/2.3.2/
+
+Design Examples
+http://www.awwwards.com/
+
 
 ***Other Non-Ruby Links***
 Know more about HTTP

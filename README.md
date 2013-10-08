@@ -112,6 +112,9 @@ http://builtwithbootstrap.com/
 
 
 ***Other Non-Ruby Links***
+Semantic Versioning
+http://semver.org/
+
 Know more about HTTP
 https://github.com/for-GET/know-your-http-well
 

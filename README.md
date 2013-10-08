@@ -131,7 +131,7 @@ http://pryrepl.org/screencasts.html
 r/learnprogramming
 http://www.reddit.com/r/learnprogramming
 
-***Javascript and stuff***
+***Javascript***
 Backbone.js, JSON API, and Relational Data: A Primer
 http://robots.thoughtbot.com/post/62054652551/backbone-js-json-api-and-relational-data-a-primer
 
@@ -150,3 +150,6 @@ http://datavisualization.ch/tools/selected-tools/
 Templates
 http://html5up.net/
 http://www.designrazzi.com/2013/free-css3-html5-templates/
+
+HTML, CSS, jQuery Cheat Sheets
+http://www.designyourway.net/drb/all-the-cheat-sheets-an-up-to-date-web-designer-needs-css3-html5-and-jquery/

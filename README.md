@@ -143,6 +143,10 @@ r/learnprogramming
 http://www.reddit.com/r/learnprogramming
 
 ***Javascript***
+
+Leaflet- library for interactive maps
+http://leafletjs.com/
+
 Backbone.js, JSON API, and Relational Data: A Primer
 http://robots.thoughtbot.com/post/62054652551/backbone-js-json-api-and-relational-data-a-primer
 

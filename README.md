@@ -115,6 +115,10 @@ http://builtwithbootstrap.com/
 
 
 ***Other Non-Ruby Links***
+The Noun Project- free icons
+http://thenounproject.com/
+
+
 General Assembly Badges
 http://ga.bling.phillbaker.com/#wdi):
 

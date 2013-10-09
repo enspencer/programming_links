@@ -155,3 +155,6 @@ http://www.designrazzi.com/2013/free-css3-html5-templates/
 
 HTML, CSS, jQuery Cheat Sheets
 http://www.designyourway.net/drb/all-the-cheat-sheets-an-up-to-date-web-designer-needs-css3-html5-and-jquery/
+
+Free Background Patterns
+http://subtlepatterns.com/

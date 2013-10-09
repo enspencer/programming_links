@@ -112,6 +112,12 @@ http://builtwithbootstrap.com/
 
 
 ***Other Non-Ruby Links***
+General Assembly Badges
+http://ga.bling.phillbaker.com/#wdi):
+
+Sublime Shortcuts
+https://gist.github.com/lucasfais/1207002
+
 Semantic Versioning
 http://semver.org/
 
@@ -158,3 +164,6 @@ http://www.designyourway.net/drb/all-the-cheat-sheets-an-up-to-date-web-designer
 
 Free Background Patterns
 http://subtlepatterns.com/
+
+
+[![wdi](http://ga.bling.phillbaker.com/images/shield_imagined_ga_wdi.png)](https://generalassemb.ly/education/web-development-immersive)

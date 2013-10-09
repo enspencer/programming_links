@@ -80,6 +80,10 @@ Alfred
 http://www.alfredapp.com/
 
 ***HTML & CSS***
+CSS resets
+http://necolas.github.io/normalize.css/
+http://meyerweb.com/eric/tools/css/reset/
+
 HTML Microdata
 http://schema.org/
 

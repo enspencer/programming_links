@@ -30,7 +30,6 @@ http://unqb.tumblr.com/post/50737858406/ruby-philosophy
 Ruby Style Guide
 https://github.com/bbatsov/ruby-style-guide
 
-<<<<<<< HEAD
 http://www.rubyfleebie.com/understanding-fixnums/
 
 http://www.sarahmei.com/blog/2009/04/21/object-ids-and-fixnums/

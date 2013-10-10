@@ -55,9 +55,19 @@ http://www.gotapi.com/rubyrails
 r/ruby
 http://www.reddit.com/r/ruby/
 
-=======
 Ruby Regex Editor
 http://rubular.com/
+
+http://ruby5.envylabs.com/
+
+http://rubyrogues.com/
+
+=======
+Rails
+
+http://guides.rubyonrails.org/active_record_querying.html
+
+http://railscasts.com/
 
 =======
 Big-O Algorithm Time Complexities
@@ -180,5 +190,12 @@ http://www.designyourway.net/drb/all-the-cheat-sheets-an-up-to-date-web-designer
 Free Background Patterns
 http://subtlepatterns.com/
 
+======
+Books
+
+Beautiful Code- O'Reilly Press
+Coders at Work
+
+======
 
 [![wdi](http://ga.bling.phillbaker.com/images/shield_imagined_ga_wdi.png)](https://generalassemb.ly/education/web-development-immersive)

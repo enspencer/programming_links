@@ -195,6 +195,10 @@ Books
 
 Beautiful Code- O'Reilly Press
 Coders at Work
+The Rspec Book
+
+Seven Databases in Seven Weeks
+Seven Languages in Seven Weeks- compares and contrasts
 
 ======
 

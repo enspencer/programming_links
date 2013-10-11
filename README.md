@@ -62,6 +62,9 @@ http://ruby5.envylabs.com/
 
 http://rubyrogues.com/
 
+Ruby/Sinatra course
+http://spring493.deliciousrobots.com/
+
 =======
 Rails
 

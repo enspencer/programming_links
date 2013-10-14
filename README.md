@@ -217,7 +217,7 @@ Free Background Patterns
 http://subtlepatterns.com/
 
 ======
-*** Culture ***
+***Culture***
 http://www.womenintechnology.org/witef/resources
 
 

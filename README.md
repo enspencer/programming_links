@@ -4,6 +4,7 @@ Links!
 Links to documentation for the GA Boston 2013 class.
 
 ***Ice Box***
+
 * HTTP/networks
 * rspec
 * APIs
@@ -84,6 +85,7 @@ https://github.com/thekarangoel/Projects
 =======
 
 ***Books***
+
 Twitter API
 http://www.amazon.com/dp/0989875806
 

@@ -217,5 +217,9 @@ Free Background Patterns
 http://subtlepatterns.com/
 
 ======
+***Culture ***
+http://www.womenintechnology.org/witef/resources
+
+
 
 [![wdi](http://ga.bling.phillbaker.com/images/shield_imagined_ga_wdi.png)](https://generalassemb.ly/education/web-development-immersive)

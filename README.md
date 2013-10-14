@@ -81,11 +81,20 @@ http://bigocheatsheet.com/
 100 Coding Projects
 https://github.com/thekarangoel/Projects
 
+=======
+
 ***Books***
 Twitter API
 http://www.amazon.com/dp/0989875806
 
+Beautiful Code- O'Reilly Press
+Coders at Work
+The Rspec Book
 
+Seven Databases in Seven Weeks
+Seven Languages in Seven Weeks- compares and contrasts
+
+=======
 ***Productivity***
 
 Cinch
@@ -94,7 +103,7 @@ http://www.irradiatedsoftware.com/cinch/
 Alfred
 http://www.alfredapp.com/
 
-
+=======
 ***HTML & CSS***
 
 CSS resets
@@ -131,12 +140,13 @@ Design Examples
 http://www.awwwards.com/
 http://builtwithbootstrap.com/
 
+=======
 ***Databases***
 
 Postgres sorting
 http://www.postgresql.org/docs/8.1/static/queries-order.html
 
-
+=======
 ***Other Non-Ruby Links***
 
 The Noun Project- free icons
@@ -170,6 +180,7 @@ http://pryrepl.org/screencasts.html
 r/learnprogramming
 http://www.reddit.com/r/learnprogramming
 
+=======
 ***Javascript***
 
 Leaflet- library for interactive maps
@@ -181,6 +192,7 @@ http://robots.thoughtbot.com/post/62054652551/backbone-js-json-api-and-relationa
 Angular.js Tutorial
 http://learnangularjs.net/
 
+=======
 ***Design***
 
 http://hackdesign.org/
@@ -201,16 +213,6 @@ http://www.designyourway.net/drb/all-the-cheat-sheets-an-up-to-date-web-designer
 
 Free Background Patterns
 http://subtlepatterns.com/
-
-======
-Books
-
-Beautiful Code- O'Reilly Press
-Coders at Work
-The Rspec Book
-
-Seven Databases in Seven Weeks
-Seven Languages in Seven Weeks- compares and contrasts
 
 ======
 

@@ -15,6 +15,8 @@ Links to documentation for the GA Boston 2013 class.
 
 ***Documentation***
 
+http://globaldev.co.uk/2013/09/ruby-tips-part-1/
+
 http://kapeli.com/dash
 
 http://apidock.com/ruby
@@ -83,6 +85,7 @@ https://github.com/thekarangoel/Projects
 Twitter API
 http://www.amazon.com/dp/0989875806
 
+
 ***Productivity***
 
 Cinch
@@ -91,7 +94,9 @@ http://www.irradiatedsoftware.com/cinch/
 Alfred
 http://www.alfredapp.com/
 
+
 ***HTML & CSS***
+
 CSS resets
 http://necolas.github.io/normalize.css/
 http://meyerweb.com/eric/tools/css/reset/
@@ -127,11 +132,13 @@ http://www.awwwards.com/
 http://builtwithbootstrap.com/
 
 ***Databases***
+
 Postgres sorting
 http://www.postgresql.org/docs/8.1/static/queries-order.html
 
 
 ***Other Non-Ruby Links***
+
 The Noun Project- free icons
 http://thenounproject.com/
 
@@ -175,6 +182,7 @@ Angular.js Tutorial
 http://learnangularjs.net/
 
 ***Design***
+
 http://hackdesign.org/
 
 d3 examples

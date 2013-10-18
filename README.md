@@ -76,6 +76,14 @@ http://guides.rubyonrails.org/active_record_querying.html
 http://railscasts.com/
 
 =======
+***Git***
+
+http://ndpsoftware.com/git-cheatsheet.html
+
+http://git-scm.com/docs
+
+
+=======
 Big-O Algorithm Time Complexities
 http://bigocheatsheet.com/
 

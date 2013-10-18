@@ -1,6 +1,6 @@
 Links!
 ==========
- 
+  
 Links to documentation for the GA Boston 2013 class.
 
 ***Ice Box***

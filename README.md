@@ -71,6 +71,9 @@ http://spring493.deliciousrobots.com/
 =======
 Rails
 
+http://guides.rubyonrails.org/
+- There's a link to all the Rails Guides in mobi format for easy reading via the Kindle app. 
+
 http://guides.rubyonrails.org/active_record_querying.html
 
 http://railscasts.com/

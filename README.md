@@ -86,6 +86,9 @@ https://github.com/thekarangoel/Projects
 
 ***Books***
 
+Javascript: The Good Parts
+http://it-ebooks.info/read/274/
+
 Twitter API
 http://www.amazon.com/dp/0989875806
 

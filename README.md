@@ -5,6 +5,8 @@ Links to documentation and other fun stuff for the GA Boston 2013 class.
 
 ***Documentation***
 
+http://rails-bestpractices.com/
+
 http://globaldev.co.uk/2013/09/ruby-tips-part-1/
 
 http://kapeli.com/dash

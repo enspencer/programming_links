@@ -3,7 +3,7 @@ Links!
   
 Links to documentation and other fun stuff for the GA Boston 2013 class.
 
-***Documentation***
+***Ruby/Rails Documentation***
 
 http://rails-bestpractices.com/
 

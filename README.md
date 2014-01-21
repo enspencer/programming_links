@@ -190,6 +190,9 @@ http://www.reddit.com/r/learnprogramming
 =======
 ***Javascript***
 
+screencasts on 'this' in javascript
+https://thenewcircle.com/s/post/1564/context_or_the_this_keyword_in_javascript_tutorial
+
 d3 tutorial
 https://www.dashingd3js.com/table-of-contents
 
